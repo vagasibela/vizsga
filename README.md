@@ -1,2 +1,0 @@
-# vizsga
-vizsga
